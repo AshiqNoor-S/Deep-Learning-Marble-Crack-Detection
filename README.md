@@ -13,8 +13,11 @@ This repository contains the code and documentation for my deep learning capston
 
 ## Libraries Used
 
-- TensorFlow and Keras: Used for building and training deep learning models.
-- [Additional libraries you've used]
+- **Keras**: Used for building and training deep learning models.
+- **Matplotlib**: Used for data visualization and plotting.
+- **NumPy**: Used for numerical operations and array manipulation.
+- **Pandas**: Used for data manipulation and analysis.
+- **os**: Used for interacting with the operating system.
 
 ## Usage
 
