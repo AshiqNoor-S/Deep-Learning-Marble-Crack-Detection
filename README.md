@@ -41,28 +41,16 @@ This repository contains the code and documentation for my deep learning capston
 
 ## Results and Insights
 
-[Provide insights, analysis, and visualizations based on the model performance. Highlight any challenges faced and how they were addressed.]
+In analyzing the model performance, both VGG16 and ResNet50 achieved high accuracy rates, demonstrating their effectiveness in marble crack detection. Visualizations in the notebooks reveal the successful identification of cracks in test images.
 
 ## Conclusion
 
-Summarize the key findings and conclusions from your project. Discuss the implications and potential applications of your crack detection models.
+The results indicate that deep learning models, specifically VGG16 and ResNet50, can be valuable tools for marble crack detection. The application of these models can contribute to early detection and preventive maintenance in industries where marble is widely used.
 
 ## Future Work
 
-Outline potential areas for future work or improvements to the models. This could include exploring different architectures, fine-tuning hyperparameters, or incorporating additional data sources.
-
-## Acknowledgments
-
-Give credit to any external resources, libraries, or datasets used in your project.
-
-## References
-
-Include relevant papers, articles, or documentation that influenced your approach.
+Future work could involve fine-tuning hyperparameters, exploring additional data augmentation techniques, or considering transfer learning from models trained on larger datasets. Additionally, collaboration with domain experts to enhance model interpretability is a potential avenue for improvement.
 
 ## Author
+Ashiq Noor Sudheer
 
-[Your Name]
-
----
-
-Feel free to adapt and expand upon this template based on the specific details of your project. Include any visualizations, sample predictions, or additional sections that enhance the overall understanding of your work.
